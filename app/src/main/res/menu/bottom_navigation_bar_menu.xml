@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_profile_32"
+        android:enabled="true"
+        android:title="@string/profile" />
+
+    <item
+        android:id="@+id/navigation_workers_list"
+        android:icon="@drawable/ic_workers_32"
+        android:enabled="true"
+        android:title="@string/workers_list" />
+
+    <item
+        android:id="@+id/navigation_toppers"
+        android:icon="@drawable/ic_toppers_32"
+        android:enabled="true"
+        android:title="@string/toppers" />
+</menu>

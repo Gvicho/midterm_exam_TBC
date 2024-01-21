@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Test7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="register">Register</string>
+    <string name="repeat_password">repeat password</string>
+    <string name="logout">logout</string>
+    <string name="homepage">HomePage</string>
+    <string name="coworkers">Coworkers :</string>
+    <string name="workers_list">Workers List</string>
+    <string name="profile">Profile</string>
+    <string name="toppers">Toppers</string>
+    <string name="_0_0">0.0</string>
+    <string name="empty_profession">Empty Profession</string>
+    <string name="empty_name">Empty Name</string>
+    <string name="rating_chart_trough_the_months">Rating Chart Trough the months:</string>
+    <string name="year">Year:</string>
+    <string name="month">Month:</string>
+    <string name="status">Status :</string>
+    <string name="active">Active</string>
+    <string name="working_hours_on_average">Working Hours on Average:</string>
+</resources>

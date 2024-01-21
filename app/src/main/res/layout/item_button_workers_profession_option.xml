@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/item_button_shape"
+    android:text="@string/empty_profession"
+    android:padding="10dp"
+    android:textAppearance="@style/worker_profession_category"
+    android:textColor="@color/white"
+    android:layout_marginEnd="15dp">
+
+</androidx.appcompat.widget.AppCompatButton>
