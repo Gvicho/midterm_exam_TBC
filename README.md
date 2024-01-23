@@ -1,7 +1,7 @@
 # Employee Feedback and Performance Tracker
 
 ## Overview
-Our application is specifically designed for **managers and HR professionals**, aiming to streamline the process of monitoring and analyzing employee performance. This tool is invaluable for observing coworker feedback ratings and average working hours, providing detailed insights for each team member. Additionally, it highlights top performers across various roles, such as the **best cook, waiter, cleaner**, etc., fostering a competitive yet constructive work environment.
+This application is specifically designed for **managers and HR professionals**, aiming to streamline the process of monitoring and analyzing employee performance. This tool is invaluable for observing coworker feedback ratings and average working hours, providing detailed insights for each team member. Additionally, it highlights top performers across various roles, such as the **best cook, waiter, cleaner**, etc., fostering a competitive yet constructive work environment.
 
 ## Key Features
 - **Employee Feedback Analysis:** Access real-time data on employee feedback ratings to gauge overall satisfaction and areas of improvement.
